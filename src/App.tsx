@@ -34,8 +34,8 @@ export default function App() {
           {/* 
               Your video has been detected! 
           */}
-          <source src="/hero-video.mp4.mp4" type="video/mp4" />
-          <source src="/hero-video.mp4" type="video/mp4" />
+          <source src="./hero-video.mp4.mp4" type="video/mp4" />
+          <source src="./hero-video.mp4" type="video/mp4" />
           <source 
             src="https://player.vimeo.com/external/391060935.hd.mp4?s=d94f2d718a35626cc967ff3cf2a0953a7a9de9b9&profile_id=175" 
             type="video/mp4" 

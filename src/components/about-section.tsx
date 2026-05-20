@@ -8,7 +8,7 @@ export function AboutSection() {
                 {/* Left Side - Video Mockup */}
                 <div className="relative w-full rounded-[40px] overflow-hidden bg-white border border-black/5 shadow-[0_40px_80px_rgba(0,0,0,0.07)]">
                     <video
-                        src="/videomp_.mp4"
+                        src="./videomp_.mp4"
                         autoPlay
                         loop
                         muted

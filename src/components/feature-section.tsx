@@ -8,32 +8,32 @@ const features = [
     {
         title: "Trusted security",
         description: "Enterprise-grade protection with automated vulnerability patching and secure deployments.",
-        icon: <img src="/images/icon_security.png" alt="Trusted Security" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_security.png" alt="Trusted Security" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     },
     {
         title: "Autonomous agents",
         description: "Our AI agents work 24/7 to build, test, and iterate on your web platform.",
-        icon: <img src="/images/icon_robot.png" alt="Autonomous Agents" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_robot.png" alt="Autonomous Agents" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     },
     {
         title: "Pixel-perfect layouts",
         description: "Flawless attention to detail ensuring your brand looks stunning on every device.",
-        icon: <img src="/images/icon_layout.png" alt="Pixel-perfect Layouts" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_layout.png" alt="Pixel-perfect Layouts" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     },
     {
         title: "Real-time optimization",
         description: "Continuous A/B testing and layout adjustments to maximize your conversion rates.",
-        icon: <img src="/images/icon_bear.png" alt="Real-time Optimization" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_bear.png" alt="Real-time Optimization" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     },
     {
         title: "Responsive design",
         description: "Fluid interfaces that adapt seamlessly to mobile, tablet, and desktop environments.",
-        icon: <img src="/images/icon_phone.png" alt="Responsive Design" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_phone.png" alt="Responsive Design" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     },
     {
         title: "Global edge delivery",
         description: "Lightning-fast load times for users worldwide through our integrated edge network.",
-        icon: <img src="/images/icon_globe.png" alt="Global Edge Delivery" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
+        icon: <img src="./images/icon_globe.png" alt="Global Edge Delivery" className="w-40 h-40 object-contain mix-blend-multiply mb-2 hover:scale-110 transition-transform duration-300" />
     }
 ];
 
