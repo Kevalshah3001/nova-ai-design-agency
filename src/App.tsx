@@ -113,7 +113,7 @@ export default function App() {
             <motion.div
               animate={{ y: [0, -30, 0], x: [0, 10, 0] }}
               transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
-              className="absolute top-[5%] left-[0%] p-8 bg-white/10 backdrop-blur-2xl border border-white/20 rounded-[40px] shadow-2xl flex flex-col gap-6"
+              className="absolute top-[5%] left-[30%] p-8 bg-white/10 backdrop-blur-2xl border border-white/20 rounded-[40px] shadow-2xl flex flex-col gap-6"
             >
               <div className="flex items-center gap-5">
                 <div className="w-16 h-16 bg-blue-500/20 rounded-2xl flex items-center justify-center border border-blue-500/30">
@@ -155,7 +155,7 @@ export default function App() {
             <motion.div
               animate={{ rotate: [0, 5, 0], y: [0, -20, 0] }}
               transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
-              className="absolute bottom-[0%] left-[20%] p-6 bg-white/5 backdrop-blur-md border border-white/10 rounded-[30px] flex items-center gap-5"
+              className="absolute bottom-[0%] left-[50%] p-6 bg-white/5 backdrop-blur-md border border-white/10 rounded-[30px] flex items-center gap-5"
             >
               <Target className="text-purple-400 w-12 h-12" />
               <div>
